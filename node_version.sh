@@ -21,5 +21,6 @@ elif [ "${NODE_MAJOR}" = "latest" ]; then
     )
 fi
 
+
 # Print the determined Node.js version
 echo $NODE_VERSION
